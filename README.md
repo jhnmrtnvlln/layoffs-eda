@@ -160,5 +160,4 @@ Each chart comes from one query. The result is copied into its own sheet, so eve
 Built by **John Martin S. Villena**, BS Information Technology graduate (Business Analytics) from Bulacan State University.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/jhnmrtnvlln/)
-📺 [YouTube](https://www.youtube.com/@TheTop52Singles)
-🐦 [Twitter/X](https://x.com/TheTop52Singles)
+
