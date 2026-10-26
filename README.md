@@ -37,11 +37,11 @@ The full log (issue, rows affected, fix and reason) is in the **Cleaning Log** s
 ### Charts
 | Layoffs by month | Share of staff cut, by funding stage |
 |---|---|
-| ![Monthly](layoffs-analysis/layoffs_monthly.png) | ![Stage share](layoffs-analysis/layoffs_stage_share.png) |
+| ![Monthly](layoffs_eda_project/layoffs_monthly.png) | ![Stage share](layoffs_eda_project/layoffs_stage_share.png) |
 
 | People laid off, by funding stage | Top 10 industries by people laid off |
 |---|---|
-| ![Stage headcount](layoffs-analysis/layoffs_stage_headcount.png) | ![Industry](layoffs-analysis/layoffs_industry.png) |
+| ![Stage headcount](layoffs_eda_project/layoffs_stage_headcount.png) | ![Industry](layoffs_eda_project/layoffs_industry.png) |
 
 ---
 
